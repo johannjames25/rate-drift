@@ -4,8 +4,7 @@ A tiny, live currency-movement tool built for the five-day build challenge.
 
 **Option chosen:** Option 1 : API Tool + Chat/Form (weight ×1.00)
 
-**Live link:** [add your GitHub Pages URL here after deploying]
-
+**Live link:** (https://johannjames25.github.io/rate-drift/)
 ## What it does
 We enter an amount and pick a "from" and "to" currency. The tool:
 1. Looks up today's exchange rate (Frankfurter v1 API, which serves European Central Bank data).
