@@ -1,0 +1,12 @@
+{
+  "name": "Rate Drift — currency movement, explained",
+  "short_name": "Rate Drift",
+  "description": "Look up a currency pair, compare it to the past, and get a plain-language answer with the ECB math shown openly.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceee7",
+  "theme_color": "#28395c",
+  "orientation": "portrait-primary",
+  "icons": []
+}
